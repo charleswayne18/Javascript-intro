@@ -16,7 +16,7 @@ const average = sum / numbersLength;
 
 console.log(average);
 
-const variance = ((a - average)**2 + (b - average)**2 + (c + average)**2 + (d + average)**2 + (e - average)**2 + (f - average)**2 + (g - average)**2 + (h - average)**2 
+const variance = ((a - average)**2 + (b - average)**2 + (c - average)**2 + (d - average)**2 + (e - average)**2 + (f - average)**2 + (g - average)**2 + (h - average)**2 
 + (i - average)**2 + (j - average)**2) / (numbersLength - 1);
 
 console.log(variance);
