@@ -212,6 +212,6 @@ else {
 
 let sumUnit = Eunit + Funit + Munit + Punit + Cunit + Bunit + Wunit + Tunit + Hunit ;
 
-let gpa = sumUnit / 21
+let gpa = sumUnit / 21;
 
 document.write(gpa);
