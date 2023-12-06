@@ -13,7 +13,4 @@ function addNumbers(number) {
     return sum;
   }
   
-  // Example
-  const result = addNumbers(7);
-  console.log(result);
-  
+  console.log(addNumbers(50))
