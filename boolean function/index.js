@@ -7,17 +7,6 @@ function evenOrOdd(number,boolean) {
     }
 }
 
-console.log(evenOrOdd (8, false))
-
-
-
-
-
-
-
-
-
-
 function addOddNumber(number) {
     if (number < 0) {
         return 0;
