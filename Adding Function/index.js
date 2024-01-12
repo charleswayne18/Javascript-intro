@@ -13,4 +13,4 @@ function addNumbers(number) {
     return sum;
   }
   
-  console.log(addNumbers(50))
+  console.log(addNumbers(3))
