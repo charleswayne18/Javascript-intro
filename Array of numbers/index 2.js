@@ -1,6 +1,8 @@
+// Lowest Number
+
 let x = [1,50, 60, 4]
 
-function DetHighestNum(num) {
+function lowestNumber(num) {
     if(num.length === 0) {
         return null;
     }
@@ -8,7 +10,7 @@ function DetHighestNum(num) {
     return Math.min(...num)
 }
 
-let highestNum = DetHighestNum(x)
-console.log(highestNum);
+let lowestNum = lowestNumber(x)
+console.log(lowestNum);
 
 
